@@ -1,0 +1,50 @@
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003288808
+[Complete] final_result = 900dbeef
+kernel execution: 0.000041793
+one-time postprocess: 0.001096427
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003280554
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043803
+one-time postprocess: 0.001137008
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003311801
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043884
+one-time postprocess: 0.001098963
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003316435
+[Complete] final_result = 900dbeef
+kernel execution: 0.000044366
+one-time postprocess: 0.001153361
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003288337
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043696
+one-time postprocess: 0.001130088
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003353458
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043630
+one-time postprocess: 0.001098094
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003308871
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043776
+one-time postprocess: 0.001099764
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003306901
+[Complete] final_result = 900dbeef
+kernel execution: 0.000043470
+one-time postprocess: 0.001097656
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003315148
+[Complete] final_result = 900dbeef
+kernel execution: 0.000044340
+one-time postprocess: 0.001099084
+[Start] AFU ID=20151013900dbeefa000b000c000d000
+one-time preprocess: 0.003288974
+[Complete] final_result = 900dbeef
+kernel execution: 0.000044210
+one-time postprocess: 0.001121758
